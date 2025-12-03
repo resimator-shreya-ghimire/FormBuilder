@@ -9,7 +9,7 @@ const navigationbardata = [
 ]
 
 export async function GET() {
-  return NextResponse.json(navigationbardata);
+        return NextResponse.json(navigationbardata);
 }
 
 
