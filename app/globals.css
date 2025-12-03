@@ -1,4 +1,9 @@
+@import "@fortawesome/fontawesome-free/css/all.css";
 @import "tailwindcss";
+@import "@mantine/core/styles.css";
+@import "@mantine/notifications/styles.css";
+
+
 
 :root {
   --background: #ffffff;

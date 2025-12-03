@@ -1,0 +1,213 @@
+[
+    {
+        "id": 1,
+        "label": "Build blocks",
+        "icon": "fa-solid fa-cubes",
+        "list": {
+            "Forms": [
+                {
+                    "id": 2,
+                    "label": "Form",
+                    "name": "form"
+                }
+            ],
+            "Image": [
+                {
+                    "id": 3,
+                    "label": "Image",
+                    "name": "image"
+                }
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "label": "Form Fields",
+        "icon": "fa-solid fa-list",
+        "list": {
+            "Input": [
+                {
+                    "id": 4,
+                    "label": "text",
+                    "name": "text"
+                },
+                {
+                    "id": 5,
+                    "label": "textarea",
+                    "name": "textarea"
+                },
+                {
+                    "id": 6,
+                    "label": "email",
+                    "name": "email"
+                },
+                {
+                    "id": 7,
+                    "label": "password",
+                    "name": "password"
+                },
+                {
+                    "id": 8,
+                    "label": "number",
+                    "name": "number"
+                },
+                {
+                    "id": 10,
+                    "label": "phone number",
+                    "name": "phone number"
+                }
+            ],
+            "Dropdown": [
+                {
+                    "id": 6,
+                    "label": "Multi select",
+                    "name": "multi select"
+                },
+                {
+                    "id": 7,
+                    "label": "Single select",
+                    "name": "single select"
+                }
+            ],
+            "Date and Time": [
+                {
+                    "id": 6,
+                    "label": "Date & Time",
+                    "name": "datetime"
+                },
+                {
+                    "id": 7,
+                    "label": "Date",
+                    "name": "date"
+                },
+                {
+                    "id": 8,
+                    "label": "Time",
+                    "name": "time"
+                }
+            ],
+            "Checkbox": [
+                {
+                    "id": 7,
+                    "label": "Checkbox",
+                    "name": "checkbox"
+                }
+            ],
+            "Radio": [
+                {
+                    "id": 8,
+                    "label": "Radio",
+                    "name": "radio"
+                }
+            ],
+            "Range Slider": [
+                {
+                    "id": 9,
+                    "label": "Range Slider",
+                    "name": "range"
+                }
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "label": "Text Field",
+        "icon": "fa-solid fa-text-width",
+        "list": {
+            "Heading": [
+                {
+                    "id": 10,
+                    "label": "Heading",
+                    "name": "heading",
+                    "icon": "fa-solid fa-heading"
+                }
+            ],
+            "Paragraph": [
+                {
+                    "id": 11,
+                    "label": "Paragraph",
+                    "name": "paragraph",
+                    "icon": "fa-solid fa-align-left"
+                }
+            ],
+            "Span": [
+                {
+                    "id": 12,
+                    "label": "Span",
+                    "name": "span",
+                    "icon": "fa-solid fa-font"
+                }
+            ],
+            "Label": [
+                {
+                    "id": 13,
+                    "label": "Label",
+                    "name": "label",
+                    "icon": "fa-solid fa-tag"
+                }
+            ]
+        }
+    },
+    {
+        "id": 4,
+        "label": "Table",
+        "icon": "fa-solid fa-table-cells",
+        "list": {
+            "Row": [
+                {
+                    "id": 14,
+                    "label": "Row",
+                    "name": "row",
+                    "icon": "fa-solid fa-bars-staggered"
+                }
+            ],
+            "Col": [
+                {
+                    "id": 15,
+                    "label": "Column",
+                    "name": "column",
+                    "icon": "fa-solid fa-border-all"
+                }
+            ]
+        }
+    },
+    {
+        "id": 5,
+        "label": "Background",
+        "icon": "fa-solid fa-fill",
+        "list": {
+            "Color": [
+                {
+                    "id": 16,
+                    "label": "Color",
+                    "name": "color",
+                    "icon": "fa-solid fa-palette"
+                }
+            ],
+            "Gradient": [
+                {
+                    "id": 17,
+                    "label": "Gradient",
+                    "name": "gradient",
+                    "icon": "fa-solid fa-swatchbook"
+                }
+            ],
+            "Pattern": [
+                {
+                    "id": 18,
+                    "label": "Pattern",
+                    "name": "pattern",
+                    "icon": "fa-solid fa-border-style"
+                }
+            ],
+            "Image": [
+                {
+                    "id": 19,
+                    "label": "Background Image",
+                    "name": "bg-image",
+                    "icon": "fa-solid fa-image"
+                }
+            ]
+        }
+    }
+]
